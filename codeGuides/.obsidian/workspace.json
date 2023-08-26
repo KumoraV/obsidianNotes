@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11435966073d5fdc",
+        "id": "9d8ebdb7f60277b5",
         "type": "tabs",
         "children": [
           {
-            "id": "a18f6f5c4dad53ee",
+            "id": "b00d933193ee0053",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Git Guide.md",
-                "mode": "source",
-                "source": false
+                "file": "connect2turing.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Guide.md",
+                "file": "connect2turing.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Guide.md",
+                "file": "connect2turing.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Guide.md"
+                "file": "connect2turing.pdf"
               }
             }
           }
@@ -146,11 +144,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a18f6f5c4dad53ee",
+  "active": "b00d933193ee0053",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled.canvas",
+    "Unix Guide.md",
+    "Citrix-for-Students-1.pdf",
+    "Setting up an EC2 in AWS.pdf",
+    "Nano Guide.md",
     "Git Guide.md",
+    "Untitled.md",
+    "Bash, Shell Scripting.md.txt",
+    "connect2turing.pdf",
+    "Bash, Shell Scripting.txt",
+    "Untitled.canvas",
     "Guides/Git Guide.md",
     "Guides"
   ]
