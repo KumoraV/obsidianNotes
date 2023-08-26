@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "3ae0fa65b8352056",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d7f7324b30a6315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe1bb5a4f1a46786",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f36cb9f1de078b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "be27be693beddd98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bfc161719daae49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1eb8c43d37d4e28e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "993bac9adf73a551",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b59d722a2abe7f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa710cf23d2adffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcfad5203d6a9c4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db728a9f16ed5404",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d21de00e2eac3e06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfa2e4a639f4ca96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2bfc161719daae49",
+  "lastOpenFiles": [
+    "codeGuides/Citrix-for-Students-1.pdf",
+    "codeGuides/connect2turing.pdf",
+    "codeGuides/Setting up an EC2 in AWS.pdf"
+  ]
+}
