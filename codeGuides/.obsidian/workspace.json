@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9d8ebdb7f60277b5",
+        "id": "11435966073d5fdc",
         "type": "tabs",
         "children": [
           {
-            "id": "b00d933193ee0053",
+            "id": "a18f6f5c4dad53ee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "connect2turing.pdf"
+                "file": "Git Guide.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "connect2turing.pdf",
+                "file": "Git Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "connect2turing.pdf",
+                "file": "Git Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "connect2turing.pdf"
+                "file": "Git Guide.md"
               }
             }
           }
@@ -144,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b00d933193ee0053",
+  "active": "a18f6f5c4dad53ee",
   "lastOpenFiles": [
+    "connect2turing.pdf",
+    "Vi Guide.md",
+    "Untitled.md",
     "Unix Guide.md",
-    "Citrix-for-Students-1.pdf",
     "Setting up an EC2 in AWS.pdf",
     "Nano Guide.md",
-    "Git Guide.md",
-    "Untitled.md",
-    "Bash, Shell Scripting.md.txt",
-    "connect2turing.pdf",
-    "Bash, Shell Scripting.txt",
+    "C Guide.md",
+    "Bash, Shell Scripting.md",
     "Untitled.canvas",
+    "Git Guide.md",
     "Guides/Git Guide.md",
     "Guides"
   ]
