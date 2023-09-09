@@ -45,6 +45,10 @@ Pull
 	2) $ git merge
 	OR
 	$ git pull
+
+Clone
+	This will make a copy of the repo onto your local machine
+		$ git clone "repoURL.com"
 ~~~~~~~~~~~~~~~~
 
 ~~~~~Branches~~~~~~
