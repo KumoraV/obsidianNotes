@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codeGuides/Git Guide.md",
+                "file": "codeGuides/Vi Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codeGuides/Git Guide.md",
+                "file": "codeGuides/Vi Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codeGuides/Git Guide.md",
+                "file": "codeGuides/Vi Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codeGuides/Git Guide.md"
+                "file": "codeGuides/Vi Guide.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe1bb5a4f1a46786",
+  "active": "2bfc161719daae49",
   "lastOpenFiles": [
+    "README.txt",
+    "codeGuides/Git Guide.md",
     "classNotes/Software Engineering/9_8_2023.md",
     "classNotes/Software Engineering/9_5_2023.md",
     "classNotes/Untitled.md",
