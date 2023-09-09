@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "c452324d30a4acc2",
         "type": "tabs",
         "children": [
           {
             "id": "e2febb561d0cfb9a",
+=======
+        "id": "11435966073d5fdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a18f6f5c4dad53ee",
+>>>>>>> e7cc8f6b81b378e6610dbfed9d3055d2ac4af59d
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,9 +154,17 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "9bd51a71fc63dd45",
+=======
+  "active": "a18f6f5c4dad53ee",
+>>>>>>> e7cc8f6b81b378e6610dbfed9d3055d2ac4af59d
   "lastOpenFiles": [
+    "connect2turing.pdf",
+    "Vi Guide.md",
+    "Untitled.md",
     "Unix Guide.md",
+<<<<<<< HEAD
     "Untitled",
     "Git Guide.md",
     "connect2turing.pdf",
@@ -158,7 +174,14 @@
     "Untitled.md",
     "Bash, Shell Scripting.md.txt",
     "Bash, Shell Scripting.txt",
+=======
+    "Setting up an EC2 in AWS.pdf",
+    "Nano Guide.md",
+    "C Guide.md",
+    "Bash, Shell Scripting.md",
+>>>>>>> e7cc8f6b81b378e6610dbfed9d3055d2ac4af59d
     "Untitled.canvas",
+    "Git Guide.md",
     "Guides/Git Guide.md",
     "Guides"
   ]

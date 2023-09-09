@@ -24,6 +24,7 @@ OR $ git add -A
 Commit - $ git commit -m "commit message - write here"
 
 Check differences and changes - $ git diff
+	q to exit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ~~~~GitHub~~~~~
